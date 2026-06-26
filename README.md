@@ -1,23 +1,41 @@
-Hi, I'm Bilal Javed 👋
+# Hey, I'm Bilal 👋
 
-AI Engineer passionate about building intelligent systems that solve real-world problems.
+I'm an AI Engineer from Pakistan who enjoys building intelligent systems that solve real-world problems.
 
-I enjoy working with:
+Most of my work revolves around **Computer Vision**, **Generative AI**, **LLMs**, **AI Automation**, and **Backend Development**. I enjoy taking ideas from research all the way to production.
 
-🤖 Generative AI & Large Language Models (LLMs)
-👁️ Computer Vision
-🧠 Machine Learning & Deep Learning
-🔄 AI Automation & Multi-Agent Systems
-⚡ FastAPI, Python & Backend Development
+Recently, I've been working on AI evaluation frameworks, multi-agent systems, RAG applications, and computer vision solutions for real-world use cases.
 
-I've worked on projects involving AI evaluation, computer vision, workflow automation, RAG applications, and production-ready AI systems.
+---
 
-Currently
-🚀 Building AI-powered applications
-📚 Learning more about MLOps and scalable AI systems
-💡 Exploring new ideas in AI and computer vision
-Tech Stack
+## 🛠️ Tools & Technologies
 
-Python • FastAPI • PyTorch • TensorFlow • LangChain • OpenAI • Gemini • Docker • AWS • PostgreSQL • Git
+* **Languages:** Python, JavaScript, SQL
+* **AI:** PyTorch, TensorFlow, Transformers, LangChain, OpenAI, Gemini
+* **Backend:** FastAPI, Flask, REST APIs
+* **Databases:** PostgreSQL, MongoDB, MySQL
+* **Cloud & DevOps:** Docker, AWS, Git
 
-📫 Feel free to connect with me or explore my repositories.
+---
+
+## 🚀 What I'm Working On
+
+* Building production-ready AI applications
+* Exploring MLOps and scalable AI deployment
+* Learning more about AI agents and multimodal models
+* Open-source projects whenever I get the chance
+
+---
+
+## 💡 A Bit About Me
+
+* 🎓 Computer Science graduate from FAST NUCES
+* 🤖 Passionate about AI that solves practical problems
+* 📚 Always learning new technologies
+* ☕ Usually experimenting with new AI ideas on weekends
+
+---
+
+### Thanks for stopping by! 👋
+
+Feel free to explore my repositories or connect with me.
