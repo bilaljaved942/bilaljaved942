@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Bilal Javed 👋
 
-<!--
-**bilaljaved942/bilaljaved942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer passionate about building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+I enjoy working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Generative AI & Large Language Models (LLMs)
+👁️ Computer Vision
+🧠 Machine Learning & Deep Learning
+🔄 AI Automation & Multi-Agent Systems
+⚡ FastAPI, Python & Backend Development
+
+I've worked on projects involving AI evaluation, computer vision, workflow automation, RAG applications, and production-ready AI systems.
+
+Currently
+🚀 Building AI-powered applications
+📚 Learning more about MLOps and scalable AI systems
+💡 Exploring new ideas in AI and computer vision
+Tech Stack
+
+Python • FastAPI • PyTorch • TensorFlow • LangChain • OpenAI • Gemini • Docker • AWS • PostgreSQL • Git
+
+📫 Feel free to connect with me or explore my repositories.
